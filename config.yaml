@@ -5,4 +5,6 @@ subject: 'cs'
 keywords:
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
+        medical: 3
+        image: 3
+       
