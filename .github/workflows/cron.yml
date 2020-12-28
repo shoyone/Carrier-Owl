@@ -7,7 +7,7 @@ on:
   
   push:
     branches:
-      - test-send-to-slack
+      - test-send-to-slack3
 
 jobs:
   ci:
